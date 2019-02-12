@@ -59,6 +59,7 @@ Just calculate, with any format:
     > 15 7 1 1 + - / 3 * 2 1 1 + + -
     5.0
 
+Exit from calculator by entering 'q' symbol or pressing Ctrl+D hotkey
 
 ## Restrictions
 
